@@ -29,7 +29,7 @@ body{
 /* HEADER */
 header{
     grid-area:header;
-    background:#c79f0d;
+    background:#0070f9e4;
     color:white;
     text-align:center;
     padding:30px;
@@ -39,7 +39,7 @@ header{
 /* NAV */
 nav{
     grid-area:nav;
-    background:#c79f0d;
+    background:#0070f9e4;
     border-radius:10px;
 }
 
@@ -159,7 +159,7 @@ aside img{
 /* FOOTER */
 footer{
     grid-area:footer;
-    background:#c79f0d;
+    background:#0070f9e4;
     color:white;
     text-align:center;
     padding:20px;
